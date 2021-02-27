@@ -1,4 +1,4 @@
-# Thid is a title
+# This is a title
 
 And if you write here, you get a paragraph
 
